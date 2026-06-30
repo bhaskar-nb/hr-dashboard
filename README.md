@@ -6,7 +6,7 @@ An interactive **HR Analytics Dashboard** built in **Tableau** to visualize work
 
 ## 📊 Dashboard Preview
 
-![HR Dashboard](HR Dashboard.png)
+![HR Dashboard](Dashboard.png)
 
 ---
 
